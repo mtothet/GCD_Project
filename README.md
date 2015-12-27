@@ -36,7 +36,7 @@ All data files should be located in "UCI HAR Dataset" directory.
 
 5. Variables are named properly.
 
-6. Activity names are used insted of activity code.
+6. Activity names are used instead of activity codes.
 
 7. Subject numbers and activity names are converted to factors.
 
